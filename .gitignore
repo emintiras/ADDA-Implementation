@@ -1,0 +1,5 @@
+data/
+logs.log
+adda.db
+hyperparameter_optimization.py
+*.pyc

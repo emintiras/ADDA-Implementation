@@ -1,0 +1,22 @@
+{   
+    "lr_source": 0.00019525144980633396,
+    "beta1_source": 0.5118799007166573,
+    "beta2_source": 0.9350913193753919,
+    "source_weight_decay": 0.0008341434897027085,
+    "lr_target": 4.634936497161301e-05,
+    "beta1_target": 0.540925396968487,
+    "beta2_target": 0.98182920283075,
+    "lr_discriminator": 0.00021381873644271175,
+    "beta1_discriminator": 0.6200563054403171,
+    "beta2_discriminator": 0.9241434848621896,
+    "epochs_adapt": 8,
+    "target_weight_decay": 0.0029798225545287957,
+    "discriminator_weight_decay": 0.00031496025132499264,
+    "dropout": 0.21419804833163503,
+    "batch_size": 64,
+    "hidden_dim": 64,
+    "epochs_pretrain": 10,
+    "d_hidden_dim": 500,
+    "c_hidden_dim": 500,
+    "num_classes": 10
+}
